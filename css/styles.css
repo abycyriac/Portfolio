@@ -27,6 +27,10 @@ div.testimonials {
   margin-top: 20px
 }
 
+.between-pic-paragraph{
+  margin-left: 10px
+}
+
 
 
 .reduce-space {
@@ -57,19 +61,19 @@ div.testimonials {
 }
 
 .left {
-  width: 25%;
+  width: 35%;
 }
 
 .right {
-  padding-left: 10%;
+  padding-left: 3%; /* Controls gap between pic and paragraph of testimonials */
   padding-top: 5%;
-  width: 75%;
+  width: 60%;
 }
 
 .right-education {
   padding-left: 10%;
   padding-top: 2.5%;
-  width: 75%;
+  width: 65%;
 }
 
 /* Clear floats after the columns */
@@ -745,8 +749,12 @@ pre code {
 }
 
 /*=========Custom===================*/
-.testimonial-space{
-  margin-top: 2.5%;
+.testimonial-space1{
+  margin-top: 1.0%;
+}
+
+.testimonial-space2{
+  margin-top: 4.0%;
 }
 
 /*==================================*/
