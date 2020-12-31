@@ -57,7 +57,7 @@ div.testimonials {
   box-sizing: border-box;
   float: left;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  height: auto; /* Should be removed. Only for demonstration */
 }
 
 .left {
@@ -8081,6 +8081,8 @@ button.bg-dark:focus {
 .mr-auto,
 .mx-auto {
   margin-right: auto !important;
+  max-width: 100%;
+  height: auto;
 }
 
 .mb-auto,
@@ -8091,6 +8093,8 @@ button.bg-dark:focus {
 .ml-auto,
 .mx-auto {
   margin-left: auto !important;
+  max-width: 100%;
+  height: auto;
 }
 
 @media (min-width: 576px) {
