@@ -111,7 +111,7 @@ div.testimonials {
 
 
 .experience-education-letter-heading {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   padding-top: 6.8%;
@@ -150,12 +150,6 @@ div.testimonials {
   font-weight: 700;
   
 }
-
-
-
-
-
-
 
 
 * {
@@ -207,6 +201,29 @@ div.testimonials {
   border: 2px solid #444;
 }
 
+
+.experience-date-first {
+  font-style: italic;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: -20px;
+  font-family: "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.experience-date-second {
+  font-style: italic;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 3px;
+  font-family: "Droid Serif", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.experience-education-letter-heading-second {
+  font-size: 1.4rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  margin-top: -50px;
+}
 
 /*===================================================================================*/
 
